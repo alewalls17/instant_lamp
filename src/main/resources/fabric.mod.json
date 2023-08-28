@@ -8,6 +8,8 @@
 		"Walls"
 	],
 	"contact": {
+		"homepage": "https://modrinth.com/mod/instant_lamp",
+		"sources": "https://github.com/alewalls17/instant_lamp"
 	},
 	"license": "MIT",
 	"icon": "assets/instant_lamp/icon.png",
