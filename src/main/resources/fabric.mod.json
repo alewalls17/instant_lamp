@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "instant_lamp",
+	"version": "${version}",
+	"name": "instant_lamp",
+	"description": "Redstone lamps turn off instantly",
+	"authors": [
+		"Walls"
+	],
+	"contact": {
+	},
+	"license": "MIT",
+	"icon": "assets/instant_lamp/icon.png",
+	"environment": "*",
+	"entrypoints": {
+	},
+	"mixins": [
+		"instant_lamp.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.0",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
